@@ -1,1 +1,1 @@
-# A Simple Word Guessing Game# SimpleWordGuessingGame
+# A Simple Word Guessing Game
